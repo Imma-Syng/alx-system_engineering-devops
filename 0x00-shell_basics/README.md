@@ -1,1 +1,1 @@
-script that creates a symbolic link
+script that copies allHTML files from current working directory to parent of the working directory, but only cipies files that do not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
