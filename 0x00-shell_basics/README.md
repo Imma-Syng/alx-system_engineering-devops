@@ -1,1 +1,1 @@
-script that lists all files (evenones with the names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the boot directory, in long format
+script that prints the type of file
