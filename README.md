@@ -1,1 +1,1 @@
-18.life is a series of commas, not periods
+19.file type: school
