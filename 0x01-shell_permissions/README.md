@@ -1,4 +1,3 @@
-write a script that sets the of the file hello to this
--rwxr-x-wx 1 julien julien 23 sept 20 14:25 hello
+write a script that sets the mode of the file hello the same as olleh's mode
 .the file hello will be in the working directory
-you are not allowed to use commas for this script
+.the file olleh will be in the working directory
