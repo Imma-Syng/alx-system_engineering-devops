@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --from=gulliaume betty hello
+chown --from=gulliaume betty hello
